@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Italo! 👋
 
-<!--
-**Italo520/Italo520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal da Paraíba (IFPB), com foco em desenvolvimento **Back-end**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias Principais
+
+- **Python**
+- **Java**
+
+---
+
+## 🌟 Projeto em Destaque
+
+[Project_Django_Cars](https://github.com/Italo520/Project_Django_Cars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo520&layout=compact&hide=html)](https://github.com/Italo520?tab=repositories)
+[![Actions Status](https://github.com/Italo520/Project_Django_Cars/workflows/Django%20CI/badge.svg)](https://github.com/Italo520/Project_Django_Cars/actions)
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/italo520)](https://www.linkedin.com/in/italo520)
+
+---
+
+<!-- Adicione outros interesses, hobbies ou informações extras aqui se quiser -->
