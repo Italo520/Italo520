@@ -43,7 +43,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo520&layout=compact&theme=dracula&hide_border=true&hide=c%2B%2B,objective-c,Cmake,C,swift,kotlin" alt="Top Langs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo520&layout=compact&theme=dracula&hide_border=true&hide=c%2B%2B,objective-c,Cmake,C,swift,kotlin&count_private=true" alt="Top Langs" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <source
