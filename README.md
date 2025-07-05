@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Olá! 👋 Sou o Ítalo Santos</h1>
+<p align="center">
+  Um desenvolvedor apaixonado por tecnologia e soluções criativas.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/italo520" target="_blank">
@@ -17,44 +18,44 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Italo520.Italo520&" />
-</div>
+---
 
-<h1 align="center">Olá! 👋  Sou Ítalo Santos</h1>
+### 👨‍💻 Sobre Mim
 
-<h3>👩‍💻 Sobre Mim</h3>
 <p>
-  Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB.<br><br>
-  - 🔭 Atualmente trabalhando em projetos pessoais.<br>
-  - 📚 Aprendendo sobre Linguagens e Frameworks.<br>
-  - ⚡ No meu tempo livre gosto de ler e aprender novas tecnologias.
-</p>
-
-<h3>🛠️ Linguagens e Ferramentas</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-</p>
-
-<h3>🔥 Minhas Estatísticas</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Italo520&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" alt="streak graph" />
+  Sou estudante de Análise e Desenvolvimento de Sistemas no <strong>IFPB</strong>, sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos. 
+  <br><br>
+  - 🔭 Atualmente focando em projetos de desenvolvimento Web e Mobile.
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Italo520&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Italo520&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+  - 🌱 Aprendendo constantemente sobre arquitetura de software e boas práticas.
+  <br>
+  - ⚡ No meu tempo livre, gosto de explorar o mundo do hardware e da automação.
+</p>
+
+---
+
+### 🛠️ Habilidades e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,dart,js,django,spring,flutter,html,css,docker,fastapi,mysql&perline=4)](https://skillicons.dev)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo520&layout=compact&theme=dracula&hide_border=true&hide=c%2B%2B,objective-c,Cmake,C,swift,kotlin" alt="Top Langs" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=italo520&show_icons=true&theme=dracula&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=italo520&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=italo520&show_icons=true" />
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
-</div>
-
-<img src="https://raw.githubusercontent.com/Italo520/Italo520/output/snake.svg" alt="Snake animation" />
+---
