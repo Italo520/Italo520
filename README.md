@@ -1,46 +1,29 @@
-<h1 align="center">Olá! 👋 Sou o Ítalo Santos</h1>
-<p align="center">
-  Um desenvolvedor apaixonado por tecnologia e soluções criativas.
-</p>
+# Olá, eu sou o Ítalo Santos! 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/italo520" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:italo520@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/italo.520/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="https://t.me/italo520" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</p>
+Um desenvolvedor apaixonado por tecnologia e soluções criativas.
 
----
+## 👨‍💻 Sobre Mim
 
-### 👨‍💻 Sobre Mim
+Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos. Atualmente, meu foco está no desenvolvimento Web e Mobile, onde busco constantemente aprimorar meus conhecimentos em arquitetura de software e boas práticas.
 
-<p>
-  Sou estudante de Análise e Desenvolvimento de Sistemas no <strong>IFPB</strong>, sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos. 
-  <br><br>
-  - 🔭 Atualmente focando em projetos de desenvolvimento Web e Mobile.
-  <br>
-  - 🌱 Aprendendo constantemente sobre arquitetura de software e boas práticas.
-  <br>
-  - ⚡ No meu tempo livre, gosto de explorar o mundo do hardware e da automação.
-</p>
+## 🚀 Minhas Habilidades Técnicas
 
----
+Com base nos meus projetos e contribuições, minhas principais habilidades incluem:
 
-### 🛠️ Habilidades e Ferramentas
+- **JavaScript**: Desenvolvimento Web (Front-end e Back-end com Node.js), frameworks como React, Vue, Angular.
+- **Python**: Desenvolvimento Back-end (Django, Flask), automação, análise de dados, machine learning.
+- **Java**: Desenvolvimento Back-end (Spring Boot), aplicações corporativas, Android.
+- **TypeScript**: Desenvolvimento Web escalável, com foco em tipagem estática e projetos complexos.
+- **HTML & CSS**: Sólidos fundamentos para a estruturação e estilização de interfaces web modernas.
+- **Dart & Flutter**: Desenvolvimento mobile multiplataforma.
+- **C++**: Desenvolvimento de sistemas de baixo nível, jogos e aplicações de alta performance.
+- **Kotlin & Swift**: Desenvolvimento Android e iOS nativo.
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,dart,js,django,spring,flutter,html,css,docker,fastapi,mysql&perline=4)](https://skillicons.dev)
+## ✨ Meus Projetos
 
----
+Explore meus repositórios para ver exemplos práticos das minhas habilidades e projetos em que estou trabalhando.
 
-### 📊 Minhas Estatísticas no GitHub
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo520&layout=compact&theme=dracula&hide_border=true&hide=c%2B%2B,objective-c,Cmake,C,swift,kotlin&count_private=true" alt="Top Langs" />
@@ -58,4 +41,10 @@
   </picture>
 </div>
 
----
+## 🤝 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo520/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italo520)
+
+*Este README foi gerado e atualizado via automação com base na análise dos meus repositórios públicos.*
+
