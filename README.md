@@ -7,7 +7,6 @@ Um desenvolvedor apaixonado por tecnologia e soluções criativas.
 Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos. Atualmente, meu foco está no desenvolvimento Web e Mobile, onde busco constantemente aprimorar meus conhecimentos em arquitetura de software e boas práticas.
 
 ## 🚀 Minhas Habilidades Técnicas
-
 ### 🧑‍💻 Linguagens de Programação
 [![Linguagens](https://skillicons.dev/icons?i=py,java,js,dart)](https://skillicons.dev)
 
@@ -18,18 +17,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre busc
 [![Mobile Dev](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ### 🗃️ Bancos de Dados
-[![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
+[![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,oracle)](https://skillicons.dev)
 
 ### ☁️ DevOps, Cloud & Infraestrutura
 [![DevOps/Cloud](https://skillicons.dev/icons?i=docker,aws,git,nginx)](https://skillicons.dev)
 
 ### 🐧 Sistemas Operacionais
-[![Sistemas](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)
+[![Sistemas](https://skillicons.dev/icons?i=linux,debian,windows)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas e IDEs
-[![Ferramentas/IDEs](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,anaconda)](https://skillicons.dev)
-
-
+[![Ferramentas/IDEs](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,anaconda,colab)](https://skillicons.dev)
 ## ✨ Meus Projetos
 
 Explore meus repositórios para ver exemplos práticos das minhas habilidades e projetos em que estou trabalhando.
