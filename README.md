@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre busc
 
 ## 🚀 Minhas Habilidades Técnicas
 
-[![My Skills](https://skillicons.dev/icons?i=css,dart,flutter,html,java,js,py,ts&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,dart,flutter,html,java,js,py,debian,django,docker,eclipse,git,idea,linux,mysql,nginx,postgres,postman,redis,sqlite,spring,vscode,aws,anaconda,line=8)](https://skillicons.dev)
 
 
 ## ✨ Meus Projetos
