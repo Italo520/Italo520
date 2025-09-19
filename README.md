@@ -8,16 +8,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre busc
 
 ## 🚀 Minhas Habilidades Técnicas
 
-Com base nos meus projetos e contribuições, minhas principais habilidades incluem:
+[![My Skills](https://skillicons.dev/icons?i=c,cmake,cpp,css,dart,flutter,html,java,js,kotlin,objectivec,py,raku,swift,ts&perline=8)](https://skillicons.dev)
 
-- **JavaScript**: Desenvolvimento Web (Front-end e Back-end com Node.js), frameworks como React, Vue, Angular.
-- **Python**: Desenvolvimento Back-end (Django, Flask), automação, análise de dados, machine learning.
-- **Java**: Desenvolvimento Back-end (Spring Boot), aplicações corporativas, Android.
-- **TypeScript**: Desenvolvimento Web escalável, com foco em tipagem estática e projetos complexos.
-- **HTML & CSS**: Sólidos fundamentos para a estruturação e estilização de interfaces web modernas.
-- **Dart & Flutter**: Desenvolvimento mobile multiplataforma.
-- **C++**: Desenvolvimento de sistemas de baixo nível, jogos e aplicações de alta performance.
-- **Kotlin & Swift**: Desenvolvimento Android e iOS nativo.
 
 ## ✨ Meus Projetos
 
