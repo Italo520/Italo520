@@ -8,7 +8,26 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre busc
 
 ## 🚀 Minhas Habilidades Técnicas
 
-[![My Skills](https://skillicons.dev/icons?i=css,dart,flutter,html,java,js,py,debian,django,docker,eclipse,git,idea,linux,mysql,nginx,postgres,postman,redis,sqlite,spring,vscode,aws,anaconda,line=8)](https://skillicons.dev)
+### 🧑‍💻 Linguagens de Programação
+[![Linguagens](https://skillicons.dev/icons?i=py,java,js,dart)](https://skillicons.dev)
+
+### 🌐 Desenvolvimento Web
+[![Web Dev](https://skillicons.dev/icons?i=html,css,django,spring)](https://skillicons.dev)
+
+### 📱 Desenvolvimento Mobile
+[![Mobile Dev](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
+### 🗃️ Bancos de Dados
+[![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
+
+### ☁️ DevOps, Cloud & Infraestrutura
+[![DevOps/Cloud](https://skillicons.dev/icons?i=docker,aws,git,nginx)](https://skillicons.dev)
+
+### 🐧 Sistemas Operacionais
+[![Sistemas](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)
+
+### 🛠️ Ferramentas e IDEs
+[![Ferramentas/IDEs](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,anaconda)](https://skillicons.dev)
 
 
 ## ✨ Meus Projetos
