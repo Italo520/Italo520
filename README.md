@@ -8,25 +8,25 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no **IFPB**, sempre busc
 
 ## 🚀 Minhas Habilidades Técnicas
 ### 🧑‍💻 Linguagens de Programação
-[![Linguagens](https://skillicons.dev/icons?i=py,java,js,dart)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=py,java,js,dart&v=1)](https://skillicons.dev)
 
 ### 🌐 Desenvolvimento Web
-[![Web Dev](https://skillicons.dev/icons?i=html,css,django,spring)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,django,spring&v=1)](https://skillicons.dev)
 
 ### 📱 Desenvolvimento Mobile
-[![Mobile Dev](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+[![Mobile Dev](https://skillicons.dev/icons?i=flutter&v=1)](https://skillicons.dev)
 
 ### 🗃️ Bancos de Dados
-[![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,oracle)](https://skillicons.dev)
+[![Bancos de Dados](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,oracle&v=1)](https://skillicons.dev)
 
 ### ☁️ DevOps, Cloud & Infraestrutura
-[![DevOps/Cloud](https://skillicons.dev/icons?i=docker,aws,git,nginx)](https://skillicons.dev)
+[![DevOps/Cloud](https://skillicons.dev/icons?i=docker,aws,git,nginx&v=1)](https://skillicons.dev)
 
 ### 🐧 Sistemas Operacionais
-[![Sistemas](https://skillicons.dev/icons?i=linux,debian,windows)](https://skillicons.dev)
+[![Sistemas](https://skillicons.dev/icons?i=linux,debian,windows&v=1)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas e IDEs
-[![Ferramentas/IDEs](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,anaconda,colab)](https://skillicons.dev)
+[![Ferramentas/IDEs](https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,anaconda,colab&v=1)](https://skillicons.dev)
 ## ✨ Meus Projetos
 
 Explore meus repositórios para ver exemplos práticos das minhas habilidades e projetos em que estou trabalhando.
